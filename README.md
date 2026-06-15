@@ -17,3 +17,4 @@ Debido a las restricciones locales de Databricks para manejar ejecuciones direct
 ## 🏗️ 2. Arquitectura de Datos (Medallion Layers)
 
 El pipeline transforma los datos crudos en insights estratégicos atravesando tres estadios lógicos de madurez:
+<img width="1672" height="941" alt="challenge_agus" src="https://github.com/user-attachments/assets/d8e57816-21a6-496f-bd5a-61e2e5763344" />
