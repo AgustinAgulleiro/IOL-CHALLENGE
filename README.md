@@ -53,4 +53,6 @@ En la raíz del proyecto se incluye el módulo de **Business Questions**, el cua
 3.  **Performance Comercial:** Apertura del volumen financiero total movilizado por canal de atención, discriminado de forma nativa en Pesos (ARS) y Dólares (USD).
 4.  **Tendencia de Carteras:** Evolución semanal de la proporción Compra/Venta para los bonos soberanos de alta liquidez (`AL30` y `AL30D`).
 5.  **Segmentación VIP:** Identificación de los operadores con mayor frecuencia transaccional y su concentración de preferencia de activos.
+6.  **[Bonus 1] Comportamiento por Segmento:** Comparativa del volumen monetario total versus el ticket promedio operado según la actividad del usuario (`Inversor` vs. `Alta frecuencia`) para validar el impacto financiero real de cada segmento.
+7.  **[Bonus 2] Estacionalidad Temporal:** Análisis del volumen financiero distribuido por día de la semana para identificar picos de carga operativa y transacciones fuera de término o residuales durante los fines de semana.
 
