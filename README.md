@@ -60,7 +60,7 @@ En la raíz del proyecto se incluye el módulo de **Business Questions**, el cua
 
 ## 🛠️ 6. Nota de Revisión para Evaluadores
 
-> ⚠️ **Salidas de Ejecución en GitHub:** Debido a las políticas de seguridad y restricciones de administración globales del Workspace de Databricks corporativo, la opción `Commit notebook outputs` se encuentra deshabilitada en el entorno de desarrollo. 
+> ⚠️ **Salidas de Ejecución en GitHub:** Debido a las políticas de seguridad y restricciones de administración globales del Workspace de Databricks gratuito, la opción `Commit notebook outputs` se encuentra deshabilitada en el entorno de desarrollo. 
 > Para garantizar una revisión fluida, transparente y estática de los resultados analíticos y gráficos sin necesidad de montar un clúster:
 > * Se han adjuntado capturas de pantalla de los dashboards analíticos en este documento.
 > * Se exportaron las versiones completas ejecutadas en formato **HTML** dentro del repositorio para que puedan ser visualizadas de forma interactiva con todas sus celdas de datos completas.
